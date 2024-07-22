@@ -1,10 +1,8 @@
-## Hello :call_me_hand: I’m @MarcioZanoni. 
-
-I'm a Java Developer Student and I'm currently working as Cloud Support Engineer. 
+## Hello :call_me_hand: I’m Marcio Zanoni. 
 
 <img src="https://komarev.com/ghpvc/?username=MarcioZanoni" alt="MarcioZanoni" />
 
-- Java Developer.
+- Java Developer Student.
 - Cloud Support Engineer at OVHcloud Montreal.
 
 👀 I’m interested in Cloud Computing and Object Oriented Programming Language.  
